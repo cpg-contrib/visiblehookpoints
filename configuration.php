@@ -2,7 +2,7 @@
 /*************************
   Coppermine Photo Gallery
   ************************
-  Copyright (c) 2003-2011 Coppermine Dev Team
+  Copyright (c) 2003-2010 Coppermine Dev Team
   v1.0 originally written by Gregory Demar
 
   This program is free software; you can redistribute it and/or modify
@@ -10,7 +10,7 @@
   as published by the Free Software Foundation.
 
   ********************************************
-  Coppermine version: 1.5.13
+  Coppermine version: 1.6.01
   $HeadURL$
   $Revision$
   
@@ -39,6 +39,6 @@ $author = <<< EOT
 Donnoman from <a href="http://cpg-contrib.org">cpg-contrib.org</a> (v1.x and 2.x)<br />
 Plugin config section added, ported to cpg1.5.x, added hovering boxes: by <a href="http://coppermine-gallery.net/forum/index.php?action=profile;u=2" rel="external" class="external">Joachim M&uuml;ller</a> (v3.0)
 EOT;
-$version='3.4';
-$plugin_cpg_version = array('min' => '1.5');
+$version='4.0';
+$plugin_cpg_version = array('min' => '1.6');
 ?>
